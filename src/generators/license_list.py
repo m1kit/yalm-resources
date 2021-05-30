@@ -4,7 +4,7 @@ from os.path import join as pjoin
 import json
 import progressbar
 import xml.dom.minidom as xml
-from generators.spdx_xml import nodes
+from spdx_xml import nodes
 
 _filepath = 'licenses.json'
 
