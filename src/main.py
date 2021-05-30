@@ -4,10 +4,11 @@ from datetime import datetime
 import json
 
 _generators = [
-  equivalentwords,
-  license_list,
+    equivalentwords,
+    license_list,
 ]
 _meta_filepath = 'meta.json'
+
 
 def main():
   dest = os.path.abspath('dist')
@@ -19,7 +20,7 @@ def main():
     meta = {**meta, **generator.generate(dest)}
   with open(os.path.join(dest, _meta_filepath), 'w+') as f:
     json.dump(meta, f)
-  
+
 
 if __name__ == '__main__':
   main()
