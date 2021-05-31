@@ -14,7 +14,7 @@ def generate(dest, meta):
   with open(pjoin(dest, meta['licenses-file'])) as f:
     licenses = json.load(f)
 
-  os.makedirs(_dir, exist_ok=True)
+  os.makedirs(pjoin(dest, _dir), exist_ok=True)
 
   for license in progressbar.progressbar(licenses):
     license_id = license['id']
