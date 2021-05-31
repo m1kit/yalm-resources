@@ -1,4 +1,4 @@
-from generators import equivalentwords, license_list, templates
+from generators import equivalentwords, license_list, templates, words
 import os
 from datetime import datetime
 import json
@@ -7,6 +7,7 @@ _generators = [
     equivalentwords,
     license_list,
     templates,
+    words,
 ]
 _meta_filepath = 'meta.json'
 

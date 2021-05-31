@@ -233,11 +233,11 @@ def parse_json(nodes: list) -> list[Node]:
     if node['type'] == 'text':
       results.append(TextNode(node['content']))
     elif node['type'] == 'optional':
-      content = parseJson(node['content'])
+      content = parse_json(node['content'])
       results.append(OptionaltNode(content))
     elif node['type'] == 'var':
       name = node['name']
-      content = parseJson(node['content'])
+      content = parse_json(node['content'])
       pattern = node['pattern']
       results.append(VarNode(name, content, pattern))
     else:
