@@ -8,7 +8,7 @@ class Node:
 
   def _to_dict(self):
     return {
-        'tag': self._tag,
+        'type': self._tag,
     }
 
   def _is_empty(self):
@@ -102,7 +102,7 @@ class VarNode(Node):
     self.original = normalize(self.original)
 
 
-class _Transformer:
+class _XmlTransformer:
   """
   Transforms a template in a license XML into a json format.
   Based on spdx/LicenseListPublisher's code.
@@ -213,8 +213,33 @@ class _Transformer:
       raise NotImplementedError("Unsupported node type")
 
 
-def parse(text: xml.Element) -> list[Node]:
-  transformer = _Transformer()
+def parse_xml(text: xml.Element) -> list[Node]:
+  """
+  Parses a dom element in the spdx-license-XML format and returns a Node.
+  """
+  transformer = _XmlTransformer()
   tree = transformer._transform_node(text)
   tree = normalize(tree)
   return tree
+
+
+def parse_json(nodes: list) -> list[Node]:
+  """
+  Deserialize nodes in json format.
+  """
+  results = []
+  for node in nodes:
+    assert 'type' in node
+    if node['type'] == 'text':
+      results.append(TextNode(node['content']))
+    elif node['type'] == 'optional':
+      content = parseJson(node['content'])
+      results.append(OptionaltNode(content))
+    elif node['type'] == 'var':
+      name = node['name']
+      content = parseJson(node['content'])
+      pattern = node['pattern']
+      results.append(VarNode(name, content, pattern))
+    else:
+      raise NotImplementedError('Unsupported node type')
+  return results

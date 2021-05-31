@@ -5,7 +5,7 @@ import json
 _filepath = 'equivalentwords.json'
 
 
-def generate(dest):
+def generate(dest, meta):
   print(f"Generating '{_filepath}'...")
   res = requests.get('https://spdx.org/licenses/equivalentwords.txt')
   assert res.status_code == 200
@@ -19,6 +19,4 @@ def generate(dest):
   with open(pjoin(dest, _filepath), "w+") as f:
     json.dump(pairs, f)
 
-  return {
-      'equivalentwords-file': _filepath,
-  }
+  meta['equivalentwords-file'] = _filepath

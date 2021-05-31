@@ -1,4 +1,4 @@
-from generators import equivalentwords, license_list
+from generators import equivalentwords, license_list, templates
 import os
 from datetime import datetime
 import json
@@ -6,6 +6,7 @@ import json
 _generators = [
     equivalentwords,
     license_list,
+    templates,
 ]
 _meta_filepath = 'meta.json'
 
@@ -17,7 +18,7 @@ def main():
       'generated-at': datetime.utcnow().isoformat(),
   }
   for generator in _generators:
-    meta = {**meta, **generator.generate(dest)}
+    generator.generate(dest, meta)
   with open(os.path.join(dest, _meta_filepath), 'w+') as f:
     json.dump(meta, f)
 
