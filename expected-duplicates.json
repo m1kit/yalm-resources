@@ -1,0 +1,502 @@
+[
+  {
+    "from": "GPL-3.0-only",
+    "to": "GPL-3.0-or-later"
+  },
+  {
+    "from": "AGPL-1.0-only",
+    "to": "AGPL-1.0-or-later"
+  },
+  {
+    "from": "LGPL-3.0-only",
+    "to": "LGPL-3.0-or-later"
+  },
+  {
+    "from": "LGPL-2.0-or-later",
+    "to": "LGPL-2.0-only"
+  },
+  {
+    "from": "MPL-2.0",
+    "to": "MPL-2.0-no-copyleft-exception"
+  },
+  {
+    "from": "AGPL-3.0-only",
+    "to": "AGPL-3.0-or-later"
+  },
+  {
+    "from": "GPL-1.0-or-later",
+    "to": "GPL-1.0-only"
+  },
+  {
+    "from": "AGPL-1.0-or-later",
+    "to": "AGPL-1.0-only"
+  },
+  {
+    "from": "AGPL-3.0-or-later",
+    "to": "AGPL-3.0-only"
+  },
+  {
+    "from": "CAL-1.0",
+    "to": "CAL-1.0-Combined-Work-Exception"
+  },
+  {
+    "from": "CAL-1.0-Combined-Work-Exception",
+    "to": "CAL-1.0"
+  },
+  {
+    "from": "GPL-3.0-or-later",
+    "to": "GPL-3.0-only"
+  },
+  {
+    "from": "LGPL-3.0-or-later",
+    "to": "LGPL-3.0-only"
+  },
+  {
+    "from": "GPL-3.0-or-later",
+    "to": "GPL-3.0-only"
+  },
+  {
+    "from": "AGPL-1.0-or-later",
+    "to": "AGPL-1.0-only"
+  },
+  {
+    "from": "LGPL-3.0-or-later",
+    "to": "LGPL-3.0-only"
+  },
+  {
+    "from": "LGPL-2.0-only",
+    "to": "LGPL-2.0-or-later"
+  },
+  {
+    "from": "LGPL-2.1",
+    "to": "LGPL-2.1-only"
+  },
+  {
+    "from": "LGPL-2.1-only",
+    "to": "LGPL-2.1"
+  },
+  {
+    "from": "MPL-2.0-no-copyleft-exception",
+    "to": "MPL-2.0"
+  },
+  {
+    "from": "AGPL-3.0-or-later",
+    "to": "AGPL-3.0-only"
+  },
+  {
+    "from": "GPL-1.0-only",
+    "to": "GPL-1.0-or-later"
+  },
+  {
+    "from": "AGPL-1.0-only",
+    "to": "AGPL-1.0-or-later"
+  },
+  {
+    "from": "AGPL-3.0-only",
+    "to": "AGPL-3.0-or-later"
+  },
+  {
+    "from": "GPL-3.0-only",
+    "to": "GPL-3.0-or-later"
+  },
+  {
+    "from": "LGPL-3.0-only",
+    "to": "LGPL-3.0-or-later"
+  },
+  {
+    "from": "OFL-1.1-RFN",
+    "to": "OFL-1.1"
+  },
+  {
+    "from": "OFL-1.1",
+    "to": "OFL-1.1-RFN"
+  },
+  {
+    "from": "OFL-1.0",
+    "to": "OFL-1.0-no-RFN"
+  },
+  {
+    "from": "OFL-1.0-no-RFN",
+    "to": "OFL-1.0"
+  },
+  {
+    "from": "OFL-1.0-RFN",
+    "to": "OFL-1.0-no-RFN"
+  },
+  {
+    "from": "OFL-1.0-no-RFN",
+    "to": "OFL-1.0-RFN"
+  },
+  {
+    "from": "OFL-1.0-RFN",
+    "to": "OFL-1.0"
+  },
+  {
+    "from": "OFL-1.0",
+    "to": "OFL-1.0-RFN"
+  },
+  {
+    "from": "CAL-1.0",
+    "to": "CAL-1.0-Combined-Work-Exception"
+  },
+  {
+    "from": "GFDL-1.1-only",
+    "to": "GFDL-1.1-invariants-only"
+  },
+  {
+    "from": "GFDL-1.1-only",
+    "to": "GFDL-1.1-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.1-only",
+    "to": "GFDL-1.1-or-later"
+  },
+  {
+    "from": "GFDL-1.1-only",
+    "to": "GFDL-1.1-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.1-only",
+    "to": "GFDL-1.1-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.1-invariants-only",
+    "to": "GFDL-1.1-only"
+  },
+  {
+    "from": "GFDL-1.1-invariants-only",
+    "to": "GFDL-1.1-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.1-invariants-only",
+    "to": "GFDL-1.1-or-later"
+  },
+  {
+    "from": "GFDL-1.1-invariants-only",
+    "to": "GFDL-1.1-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.1-invariants-only",
+    "to": "GFDL-1.1-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.1-no-invariants-only",
+    "to": "GFDL-1.1-only"
+  },
+  {
+    "from": "GFDL-1.1-no-invariants-only",
+    "to": "GFDL-1.1-invariants-only"
+  },
+  {
+    "from": "GFDL-1.1-no-invariants-only",
+    "to": "GFDL-1.1-or-later"
+  },
+  {
+    "from": "GFDL-1.1-no-invariants-only",
+    "to": "GFDL-1.1-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.1-no-invariants-only",
+    "to": "GFDL-1.1-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.1-or-later",
+    "to": "GFDL-1.1-only"
+  },
+  {
+    "from": "GFDL-1.1-or-later",
+    "to": "GFDL-1.1-invariants-only"
+  },
+  {
+    "from": "GFDL-1.1-or-later",
+    "to": "GFDL-1.1-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.1-or-later",
+    "to": "GFDL-1.1-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.1-or-later",
+    "to": "GFDL-1.1-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.1-invariants-or-later",
+    "to": "GFDL-1.1-only"
+  },
+  {
+    "from": "GFDL-1.1-invariants-or-later",
+    "to": "GFDL-1.1-invariants-only"
+  },
+  {
+    "from": "GFDL-1.1-invariants-or-later",
+    "to": "GFDL-1.1-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.1-invariants-or-later",
+    "to": "GFDL-1.1-or-later"
+  },
+  {
+    "from": "GFDL-1.1-invariants-or-later",
+    "to": "GFDL-1.1-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.1-no-invariants-or-later",
+    "to": "GFDL-1.1-only"
+  },
+  {
+    "from": "GFDL-1.1-no-invariants-or-later",
+    "to": "GFDL-1.1-invariants-only"
+  },
+  {
+    "from": "GFDL-1.1-no-invariants-or-later",
+    "to": "GFDL-1.1-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.1-no-invariants-or-later",
+    "to": "GFDL-1.1-or-later"
+  },
+  {
+    "from": "GFDL-1.1-no-invariants-or-later",
+    "to": "GFDL-1.1-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.2-only",
+    "to": "GFDL-1.2-invariants-only"
+  },
+  {
+    "from": "GFDL-1.2-only",
+    "to": "GFDL-1.2-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.2-only",
+    "to": "GFDL-1.2-or-later"
+  },
+  {
+    "from": "GFDL-1.2-only",
+    "to": "GFDL-1.2-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.2-only",
+    "to": "GFDL-1.2-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.2-invariants-only",
+    "to": "GFDL-1.2-only"
+  },
+  {
+    "from": "GFDL-1.2-invariants-only",
+    "to": "GFDL-1.2-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.2-invariants-only",
+    "to": "GFDL-1.2-or-later"
+  },
+  {
+    "from": "GFDL-1.2-invariants-only",
+    "to": "GFDL-1.2-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.2-invariants-only",
+    "to": "GFDL-1.2-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.2-no-invariants-only",
+    "to": "GFDL-1.2-only"
+  },
+  {
+    "from": "GFDL-1.2-no-invariants-only",
+    "to": "GFDL-1.2-invariants-only"
+  },
+  {
+    "from": "GFDL-1.2-no-invariants-only",
+    "to": "GFDL-1.2-or-later"
+  },
+  {
+    "from": "GFDL-1.2-no-invariants-only",
+    "to": "GFDL-1.2-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.2-no-invariants-only",
+    "to": "GFDL-1.2-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.2-or-later",
+    "to": "GFDL-1.2-only"
+  },
+  {
+    "from": "GFDL-1.2-or-later",
+    "to": "GFDL-1.2-invariants-only"
+  },
+  {
+    "from": "GFDL-1.2-or-later",
+    "to": "GFDL-1.2-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.2-or-later",
+    "to": "GFDL-1.2-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.2-or-later",
+    "to": "GFDL-1.2-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.2-invariants-or-later",
+    "to": "GFDL-1.2-only"
+  },
+  {
+    "from": "GFDL-1.2-invariants-or-later",
+    "to": "GFDL-1.2-invariants-only"
+  },
+  {
+    "from": "GFDL-1.2-invariants-or-later",
+    "to": "GFDL-1.2-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.2-invariants-or-later",
+    "to": "GFDL-1.2-or-later"
+  },
+  {
+    "from": "GFDL-1.2-invariants-or-later",
+    "to": "GFDL-1.2-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.2-no-invariants-or-later",
+    "to": "GFDL-1.2-only"
+  },
+  {
+    "from": "GFDL-1.2-no-invariants-or-later",
+    "to": "GFDL-1.2-invariants-only"
+  },
+  {
+    "from": "GFDL-1.2-no-invariants-or-later",
+    "to": "GFDL-1.2-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.2-no-invariants-or-later",
+    "to": "GFDL-1.2-or-later"
+  },
+  {
+    "from": "GFDL-1.2-no-invariants-or-later",
+    "to": "GFDL-1.2-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.3-only",
+    "to": "GFDL-1.3-invariants-only"
+  },
+  {
+    "from": "GFDL-1.3-only",
+    "to": "GFDL-1.3-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.3-only",
+    "to": "GFDL-1.3-or-later"
+  },
+  {
+    "from": "GFDL-1.3-only",
+    "to": "GFDL-1.3-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.3-only",
+    "to": "GFDL-1.3-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.3-invariants-only",
+    "to": "GFDL-1.3-only"
+  },
+  {
+    "from": "GFDL-1.3-invariants-only",
+    "to": "GFDL-1.3-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.3-invariants-only",
+    "to": "GFDL-1.3-or-later"
+  },
+  {
+    "from": "GFDL-1.3-invariants-only",
+    "to": "GFDL-1.3-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.3-invariants-only",
+    "to": "GFDL-1.3-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.3-no-invariants-only",
+    "to": "GFDL-1.3-only"
+  },
+  {
+    "from": "GFDL-1.3-no-invariants-only",
+    "to": "GFDL-1.3-invariants-only"
+  },
+  {
+    "from": "GFDL-1.3-no-invariants-only",
+    "to": "GFDL-1.3-or-later"
+  },
+  {
+    "from": "GFDL-1.3-no-invariants-only",
+    "to": "GFDL-1.3-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.3-no-invariants-only",
+    "to": "GFDL-1.3-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.3-or-later",
+    "to": "GFDL-1.3-only"
+  },
+  {
+    "from": "GFDL-1.3-or-later",
+    "to": "GFDL-1.3-invariants-only"
+  },
+  {
+    "from": "GFDL-1.3-or-later",
+    "to": "GFDL-1.3-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.3-or-later",
+    "to": "GFDL-1.3-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.3-or-later",
+    "to": "GFDL-1.3-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.3-invariants-or-later",
+    "to": "GFDL-1.3-only"
+  },
+  {
+    "from": "GFDL-1.3-invariants-or-later",
+    "to": "GFDL-1.3-invariants-only"
+  },
+  {
+    "from": "GFDL-1.3-invariants-or-later",
+    "to": "GFDL-1.3-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.3-invariants-or-later",
+    "to": "GFDL-1.3-or-later"
+  },
+  {
+    "from": "GFDL-1.3-invariants-or-later",
+    "to": "GFDL-1.3-no-invariants-or-later"
+  },
+  {
+    "from": "GFDL-1.3-no-invariants-or-later",
+    "to": "GFDL-1.3-only"
+  },
+  {
+    "from": "GFDL-1.3-no-invariants-or-later",
+    "to": "GFDL-1.3-invariants-only"
+  },
+  {
+    "from": "GFDL-1.3-no-invariants-or-later",
+    "to": "GFDL-1.3-no-invariants-only"
+  },
+  {
+    "from": "GFDL-1.3-no-invariants-or-later",
+    "to": "GFDL-1.3-or-later"
+  },
+  {
+    "from": "GFDL-1.3-no-invariants-or-later",
+    "to": "GFDL-1.3-invariants-or-later"
+  }
+]
