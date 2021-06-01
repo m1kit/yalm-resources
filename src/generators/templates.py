@@ -19,7 +19,7 @@ def generate(dest, meta):
   for license in progressbar.progressbar(licenses):
     license_id = license['id']
     template_path = pjoin(dest, _dir, f"{license_id}.json")
-    #_generate_template(template_path, license_id)
+    _generate_template(template_path, license_id)
 
   meta['templates-dir'] = _dir
 
