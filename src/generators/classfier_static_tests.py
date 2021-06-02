@@ -13,9 +13,12 @@ def generate(dest, meta):
   print(f"Generating random tests...")
   with open(path.join(dest, meta['licenses-file'])) as f:
     licenses = json.load(f)
+  valid_ids = set(license['id'] for license in licenses)
 
   for testfile in progressbar.progressbar(glob.glob('static/tests/*.txt')):
     license_id = path.splitext(path.split(testfile)[-1])[0]
+    if not license_id in valid_ids:
+      continue
     license_dir = path.join(dest, _dir, license_id)
     os.makedirs(license_dir, exist_ok=True)
 
