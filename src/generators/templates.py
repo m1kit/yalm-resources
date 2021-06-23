@@ -4,7 +4,7 @@ from os.path import join as pjoin
 import json
 import progressbar
 import xml.dom.minidom as xml
-from spdx_xml import nodes
+import spdx_xml.parser
 
 _dir = 'template'
 
@@ -30,7 +30,7 @@ def _generate_template(dest, license_id):
   doc = xml.parseString(res.text)
 
   text = doc.getElementsByTagName('text')[0]
-  template = nodes.parse_xml(text)
+  template = spdx_xml.parser.parse_xml(text)
 
   with open(dest, 'w+') as f:
-    json.dump(nodes.to_dict(template), f)
+    json.dump(template.to_dict(), f)

@@ -2,7 +2,6 @@ from hashlib import sha256 as hasher
 import os
 from os import path
 import glob
-from spdx_xml import nodes
 import json
 import progressbar
 
@@ -10,7 +9,7 @@ _dir = 'tests/classfier/positive'
 
 
 def generate(dest, meta):
-  print(f"Generating random tests...")
+  print(f"Generating static tests...")
   with open(path.join(dest, meta['licenses-file'])) as f:
     licenses = json.load(f)
   valid_ids = set(license['id'] for license in licenses)
