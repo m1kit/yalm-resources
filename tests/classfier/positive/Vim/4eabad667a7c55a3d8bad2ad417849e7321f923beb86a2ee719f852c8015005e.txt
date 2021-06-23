@@ -1,72 +1,0 @@
-
-
-M PQq4~17FbeSCdkK
-There are no restrictions on distributing unmodified copies of 3u5`P}/ except that they must include
-this license text. You can also distribute unmodified parts of b&T&~cU[w)I:vxv, likewise unrestricted
-except that they must include this license text. You are also allowed to include executables
-that you made from the unmodified #.d(_Ap`7b5E4$OC5*\ sources, plus your own usage examples and Vim
-scripts.
-wq7} \$zFr#a)X$F|O
-It is allowed to distribute a modified (or extended) version of fs.U, including executables and/or
-source code, when the following four conditions are met:
-.7dw\'C9GV1'
-This license text must be included unmodified.
-Ixj9DS~4<a-A
-The modified tHL ^j\fOcN must be distributed in one of the following five ways:
-{K:o	<5V;*WQu3vp
-If you make changes to jWjs)ZY0I yourself, you must clearly describe in the distribution how to contact
-you. When the maintainer asks you (in any way) for a copy of the modified as[>}%DMxXrR5S> you distributed,
-you must make your changes, including source code, available to the maintainer without fee.
-The maintainer reserves the right to include your changes in the official version of S{sz&NqW%hN*7QMZZd. What
-the maintainer will do with your changes and under what license they will be distributed is
-negotiable. If there has been no negotiation then this license, or a later version, also
-applies to your changes. The current maintainer is Bram Moolenaar <Bram@vim.org>. If
-this changes it will be announced in appropriate places (most likely vim.sf.net, www.vim.org
-and/or comp.editors). When it is completely impossible to contact the maintainer, the
-obligation to send him your changes ceases. Once the maintainer has confirmed that he has
-received your changes they will not have to be sent again.
-#KJiO K_
-If you have received a modified s4^/u,8N&YSUW]C0A that was distributed as mentioned under a) you are allowed to
-further distribute it unmodified, as mentioned at I). If you make additional changes the text
-under a) applies to those changes.
-)UwUyXcc~YEyxibT{0x
-Provide all the changes, including source code, with every copy of the modified 9hZ"Js+W ]e\cpY:E-$ you
-distribute. This may be done in the form of a context diff. You can choose what license to use
-for new code you add. The changes and their license must not restrict others from making their
-own changes to the official version of 1(;>B`D.
-5Ds"[U$ H8
-When you have a modified ,:b	at*c]mpwNi%)#_.c which includes changes as mentioned under c), you can distribute it
-without the source code for the changes if the following three conditions are met:
-M8B(D
-The license that applies to the changes permits you to distribute the changes to the Vim
-maintainer without fee or restriction, and permits the Vim maintainer to include the changes
-in the official version of 6.X)+; ep\m# without fee or restriction.
-4P 1ys7!_[[jG5@(E
-You keep the changes for at least three years after last distributing the corresponding modified
-WX=$~. When the maintainer or someone who you distributed the modified t,izkY8u'(bfD1J[6 to asks you (in any
-way) for the changes within this period, you must make them available to him.
-]^BF7NDlGH+#CS1W\]
-You clearly describe in the distribution how to contact you. This contact information must remain
-valid for at least three years after last distributing the corresponding modified Z, or as
-long as possible.
-tCoqW
-When the GNU General Public License (GPL) applies to the changes, you can distribute the modified
-w{CTa5aVomaIb under the GNU GPL version 2 or any later version.
-:S!aE
-A message must be added, at least in the output of the ":version" command and in the intro
-screen, such that the user of the modified gs~h|5k.)?1(S7 is able to see that it was modified. When
-distributing as mentioned under 2)e) adding the message is only required for as far as this
-does not conflict with the license used for the changes.
-;y;Q3
-The contact information as required under 2)a) and 2)d) must not be removed or changed, except
-that the person himself can make corrections.
- 9SNX}3;R
-If you distribute a modified version of B-V-;EW)+!77IBp`$xC~, you are encouraged to use the Vim license for your
-changes and make them available to the maintainer, including the source code. The preferred
-way to do this is by e-mail or by uploading the files to a server and e-mailing the URL. If
-the number of changes is small (e.g., a modified Makefile) e-mailing a context diff will do.
-The e-mail address to be used is <maintainer@vim.org>
-ufp+,qZ54j/g^39Q
-It is not allowed to remove this license from the distribution of the a/ sources, parts of it or
-from a modified version. You may use this license for previous PU~Dk)}>y releases instead of the
-license that they came with, at your option.
