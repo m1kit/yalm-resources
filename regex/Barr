@@ -1,10 +1,1 @@
-\ \
-\ \ \ \ \ \ \ \
-This\ is\ a\ package\ of\ commutative\ diagram\ macros\ built\ on\ top\ of\ Xy\-pic\ by\ Michael\ Barr\ \(email:\
-\ \ \ \ \ \ \ \ \ barr@barrs\.org\)\.\ Its\ use\ is\ unrestricted\.\ It\ may\ be\ freely\ distributed,\ unchanged,\ for\ non\-commercial\
-\ \ \ \ \ \ \ \ \ or\ commercial\ use\.\ If\ changed,\ it\ must\ be\ renamed\.\ Inclusion\ in\ a\ commercial\ software\ package\ is\ also\
-\ \ \ \ \ \ \ \ \ permitted,\ but\ I\ would\ appreciate\ receiving\ a\ free\ copy\ for\ my\ personal\ examination\ and\ use\.\ There\ are\
-\ \ \ \ \ \ \ \ \ no\ guarantees\ that\ this\ package\ is\ good\ for\ anything\.\ I\ have\ tested\ it\ with\ LaTeX\ 2e,\ LaTeX\ 2\.09\ and\
-\ \ \ \ \ \ \ \ \ Plain\ TeX\.\ Although\ I\ know\ of\ no\ reason\ it\ will\ not\ work\ with\ AMSTeX,\ I\ have\ not\ tested\ it\.\
-\
-\ \ \ \ 
+`this`is`a`package`of`commutative`diagram`macros`built`on`top`of`xy\-`pic`by`michael`barr`\(email:`barr@barrs\.`org\)\.`its`use`is`unrestricted\.`it`may`be`freely`distributed,`unchanged,`for`noncommercial`or`commercial`use\.`if`changed,`it`must`be`renamed\.`inclusion`in`a`commercial`software`package`is`also`permitted,`but`i`would`appreciate`receiving`a`free`copy`for`my`personal`examination`and`use\.`there`are`no`guarantees`that`this`package`is`good`for`anything\.`i`have`tested`it`with`latex`2e,`latex`2\.09`and`plain`tex\.`although`i`know`of`no`reason`it`will`not`work`with`amstex,`i`have`not`tested`it\.`
