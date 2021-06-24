@@ -1,6 +1,6 @@
 from generators import equivalentwords, license_list, \
   templates, words, classfier_random_tests, \
-  classfier_static_tests, static_files
+  classfier_static_tests, static_files, regex
 import os
 from datetime import datetime
 import json
@@ -13,6 +13,7 @@ _generators = [
     classfier_static_tests,
     classfier_random_tests,
     static_files,
+    regex,
 ]
 _meta_filepath = 'meta.json'
 

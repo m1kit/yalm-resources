@@ -29,7 +29,7 @@ def generate(dest, meta):
   meta['words-dir'] = _dir
 
 
-def _generate_words(dest: str, license_id: str, root: list[template.Node], equivalentwords):
+def _generate_words(dest: str, license_id: str, root: template.Node, equivalentwords):
   words = _dfs_template(root)
   words = list(filter(_valid_word.fullmatch, words))
   words = [_normalize_word(word, equivalentwords) for word in words]
