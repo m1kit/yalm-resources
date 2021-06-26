@@ -4,10 +4,9 @@ from os.path import join as pjoin
 import json
 import progressbar
 import re
-from spdx_xml import template
+from spdx_xml import template, words
 
 _dir = 'words'
-_valid_word = re.compile(r'[a-zA-Z]+')
 
 
 def generate(dest, meta):
@@ -31,8 +30,6 @@ def generate(dest, meta):
 
 def _generate_words(dest: str, license_id: str, root: template.Node, equivalentwords):
   words = _dfs_template(root)
-  words = list(filter(_valid_word.fullmatch, words))
-  words = [_normalize_word(word, equivalentwords) for word in words]
   words.sort()
   with open(dest, 'w+') as f:
     json.dump(words, f)
@@ -42,7 +39,7 @@ def _dfs_template(root: template.Node) -> list[str]:
   if isinstance(root, template.SequentialNode):
     return sum([_dfs_template(node) for node in root.nodes], [])
   elif isinstance(root, template.TextNode):
-    return root.text.split()
+    return words.split_and_normalize(root.text)
   else:
     return []
 
