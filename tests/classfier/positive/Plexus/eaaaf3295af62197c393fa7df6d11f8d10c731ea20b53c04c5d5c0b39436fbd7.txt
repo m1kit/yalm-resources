@@ -1,57 +1,0 @@
-  N
-
-       
-Redistribution and use of this software and associated documentation ("Software"), with or without
-         modification, are permitted provided that the following conditions are met:
-
-       
- f!!"D'N=%<*(kU!aQnI
-          Redistributions of source code must retain copyright statements and notices. Redistributions must
-             also contain a copy of this document.
-        
-        
- [g,;]Ark(GMT
-          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
-             and the following disclaimer in the documentation and/or other materials provided with the
-             distribution.
-        
-        
- h<{iISECH(TcqEW/>
-          The name
-             y$zLjdF must not be used to endorse or promote
-            products derived from this Software without prior written permission of
-             [p8he!ux 19S*. For written permission, please contact
-             >E4i+L!`(e9.
-
-        
-        
- ;2Hi%8Xy0qkX<s}2"
-          Products derived from this Software may not be called
-             IOOJ?YvePByz6q nor may
-             <5DAvG appear in their names without prior
-            written permission of
-             THf*W.
-             B%mg-E6l] is a registered trademark of
-             FblmMqp!Q.
-
-        
-        
- 
-          Due credit should be given to
-             D8DY>{~KFf.
-
-        
-      
-       
-THIS SOFTWARE IS PROVIDED BY 9tlC%FHKaP8++]: AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESSED OR
-        IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
-        FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
-         D#y9^Ob?A(P	FAADM OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
-        INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-        PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-        HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-        NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-        POSSIBILITY OF SUCH DAMAGE.
-      
-
-    
