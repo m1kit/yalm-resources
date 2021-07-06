@@ -1,4 +1,6 @@
- 
+GNU AFFERO GENERAL PUBLIC LICENSE 
+
+        Version 3, 19 November 2007
      
 Copyright (C) 2007 Free Software Foundation, Inc.
       <https://fsf.org/>
@@ -68,7 +70,7 @@ The precise terms and conditions for copying,
      
 TERMS AND CONDITIONS
 
-     1:E*akWquq&.U~
+     >S'";-MKh3%ihJ>u&5
         Definitions.
          
 "This License" refers to version 3 of
@@ -117,7 +119,7 @@ An interactive user interface displays "Appropriate Legal Notices"
           If the interface presents a list of user commands or options,
           such as a menu, a prominent item in the list meets this criterion.
       
-5qR;T
+59935~w_
         Source Code. 
 
         The "source code" for a work means the preferred
@@ -165,7 +167,7 @@ The Corresponding Source need not include anything that users can
 The Corresponding Source for a work
           in source code form is that same work.
       
-csl<wRXEM	Owh!6
++s!,xROTI=4+/W|
         Basic Permissions. 
 
         All rights granted under this License are granted for the term of
@@ -192,7 +194,7 @@ Conveying under any other circumstances is permitted
           solely under the conditions stated below. Sublicensing
           is not allowed; section 10 makes it unnecessary.
       
-lI,LOR9-OJdTAu?X
+B)
         Protecting Users' Legal Rights From Anti-Circumvention Law. 
 
         No covered work shall be deemed part of an effective technological
@@ -208,7 +210,7 @@ When you convey a covered work, you waive any legal power to
           of enforcing, against the work's users, your or third parties'
           legal rights to forbid circumvention of technological measures.
       
-+W4+a&O:'.+Nq
+deeex?K	tv.&<f
         Conveying Verbatim Copies. 
 
         You may convey verbatim copies of the Program's source code as
@@ -222,23 +224,23 @@ When you convey a covered work, you waive any legal power to
 You may charge any price or no price for each copy that you
           convey, and you may offer support or warranty protection for a fee.
       
-;(d7S
+C.^//p6YgR@:
         Conveying Modified Source Versions. 
 
         You may convey a work based on the Program, or the modifications to
         produce it from the Program, in the form of source code under the terms
         of section 4, provided that you also meet all of these conditions:
-         cs|Peoy:z!3_
+         S|/ne*dH#r!5]M
             The work must carry prominent notices stating
             that you modified it, and giving a relevant date.
           
-wed?)
+:/{A8AlyTrt^|IfA44Ez
             The work must carry prominent notices stating that
             it is released under this License and any conditions
             added under section 7. This requirement modifies the
             requirement in section 4 to "keep intact all notices".
           
-	7|m%x@b(GQ|tv^fR]
+(
             You must license the entire work, as a whole, under this License
             to anyone who comes into possession of a copy. This License
             will therefore apply, along with any applicable section 7
@@ -247,7 +249,7 @@ wed?)
             permission to license the work in any other way, but it does not
             invalidate such permission if you have separately received it.
           
-h,
+BIT
             If the work has interactive user interfaces, each must
             display Appropriate Legal Notices; however, if the Program
             has interactive interfaces that do not display Appropriate
@@ -263,20 +265,20 @@ A compilation of a covered work with other separate and independent
           permit. Inclusion of a covered work in an aggregate does not
           cause this License to apply to the other parts of the aggregate.
       
-Is#/'k.(F-LI^_
+
         Conveying Non-Source Forms. 
 
         You may convey a covered work in object code form
         under the terms of sections 4 and 5, provided that you
         also convey the machine-readable Corresponding Source
         under the terms of this License, in one of these ways:
-         z"qDkiqqNH
+         x^0P1
             Convey the object code in, or embodied in, a physical
             product (including a physical distribution medium),
             accompanied by the Corresponding Source fixed on a durable
             physical medium customarily used for software interchange.
           
-SL5|
+[U>55^?(qO`WlxT
             Convey the object code in, or embodied in, a physical product
             (including a physical distribution medium), accompanied by a
             written offer, valid for at least three years and valid for
@@ -289,14 +291,14 @@ SL5|
             performing this conveying of source, or (2) access to copy
             the Corresponding Source from a network server at no charge.
           
-ALb<X(D"Knd<P  z
+||ZNtO>~ebGSa3E<l,
             Convey individual copies of the object code with a
             copy of the written offer to provide the Corresponding
             Source. This alternative is allowed only occasionally
             and noncommercially, and only if you received the object
             code with such an offer, in accord with subsection 6b.
           
-.:&2hJ?qJQuL
+*_eO(*o'w
             Convey the object code by offering access from a designated place
             (gratis or for a charge), and offer equivalent access to the
             Corresponding Source in the same way through the same place at
@@ -310,7 +312,7 @@ ALb<X(D"Knd<P  z
             the Corresponding Source, you remain obligated to ensure that it
             is available for as long as needed to satisfy these requirements.
           
-Gx!P5}3Sb_{ob
+;
             Convey the object code using peer-to-peer transmission,
             provided you inform other peers where the object code
             and Corresponding Source of the work are being offered
@@ -373,7 +375,7 @@ Corresponding Source conveyed, and Installation Information
           to the public in source code form), and must require no
           special password or key for unpacking, reading or copying.
       
-<P
+ i
         Additional Terms. 
 
         "Additional permissions" are terms that supplement the terms of this
@@ -397,29 +399,29 @@ Notwithstanding any other provision of this License, for material you
           add to a covered work, you may (if authorized by the copyright holders
           of that material) supplement the terms of this License with terms:
 
-         ;^as%YdDv%Wj
+         aog`aY;
             Disclaiming warranty or limiting liability differently
             from the terms of sections 15 and 16 of this License; or
           
-~5c*J}j@juEyu
+x@:5q?K)?07Yfo%
             Requiring preservation of specified reasonable legal
             notices or author attributions in that material or in the
             Appropriate Legal Notices displayed by works containing it; or
           
-spQ-D{P
+!6B<gFV>
             Prohibiting misrepresentation of the origin of that material,
             or requiring that modified versions of such material be marked
             in reasonable ways as different from the original version; or
           
-j^Cc~N @YzpGyin0wraR
+pslHd
             Limiting the use for publicity purposes of names
             of licensors or authors of the material; or
           
-zB\$vftLe
+UU
             Declining to grant rights under trademark law for use
             of some trade names, trademarks, or service marks; or
           
-R=AP/-)+
+YhS.{ieoP|92,_Y
             Requiring indemnification of licensors and authors of that
             material by anyone who conveys the material (or modified
             versions of it) with contractual assumptions of liability
@@ -447,7 +449,7 @@ Additional terms, permissive or non-permissive, may be
           stated in the form of a separately written license, or stated
           as exceptions; the above requirements apply either way.
       
-fG
+R{0U-zO;V
         Termination.
          
 You may not propagate or modify a covered work except as
@@ -479,7 +481,7 @@ Termination of your rights under this section does not
           terminated and not permanently reinstated, you do not qualify
           to receive new licenses for the same material under section 10.
       
-KPTf.ew_b+]Sf#^}wL(
+%*$|ubG$*I^	{nCeqt}
         Acceptance Not Required for Having Copies.
          
 You are not required to accept this License in order to receive or
@@ -491,7 +493,7 @@ You are not required to accept this License in order to receive or
           do not accept this License. Therefore, by modifying or propagating a
           covered work, you indicate your acceptance of this License to do so.
       
-2l
+\l1^i4vbis\
         Automatic Licensing of Downstream Recipients.
          
 Each time you convey a covered work, the recipient automatically
@@ -519,7 +521,7 @@ You may not impose any further restrictions on the exercise of the
           alleging that any patent claim is infringed by making, using, selling,
           offering for sale, or importing the Program or any portion of it.
       
-wf1zz/u=1
+"7Y?-w
         Patents.
          
 A "contributor" is a copyright holder who authorizes use under this
@@ -598,7 +600,7 @@ Nothing in this License shall be construed as excluding or
           limiting any implied license or other defenses to infringement
           that may otherwise be available to you under applicable patent law.
       
-63!6>#mU4
+ja;h
         No Surrender of Others' Freedom.
          
 If conditions are imposed on you (whether by court order,
@@ -614,7 +616,7 @@ If conditions are imposed on you (whether by court order,
           way you could satisfy both those terms and this License
           would be to refrain entirely from conveying the Program.
       
->QGjI[~5DpmGBi0o	dv*
+PMS
         Remote Network Interaction; Use with the GNU General Public License.
          
 Notwithstanding any other provision of this License, if you modify
@@ -637,7 +639,7 @@ Notwithstanding any other provision of this License, you have
           is the covered work, but the work with which it is combined will
           remain governed by version 3 of the GNU General Public License.
       
-=L,3d+W_DD.8
+<KI!:i0;)^Hy2w2]|
         Revised Versions of this License.
          
 The Free Software Foundation may publish revised and/or new versions
@@ -667,7 +669,7 @@ Later license versions may give you additional or
           are imposed on any author or copyright holder as a
           result of your choosing to follow a later version.
       
-`JQ0?0Wh4h!OX5l
+\7:@j^+AEPbjO4"q
         Disclaimer of Warranty.
          
 THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED
@@ -680,7 +682,7 @@ THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED
           IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME
           THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
       
-W0e8zDqZ+Jhb=k1s<
+YAcR}h^Z6pZ}`cG
         Limitation of Liability.
          
 IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
@@ -693,7 +695,7 @@ IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
           PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER
           OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
       
-cFG.10q
+k+8l6
         Interpretation of Sections 15 and 16.
      
 If the disclaimer of warranty and limitation of liability

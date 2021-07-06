@@ -1,6 +1,4 @@
- GNU LESSER GENERAL PUBLIC LICENSE 
 
-        Version 3, 29 June 2007
      
 Copyright (C) 2007 Free Software Foundation, Inc.
       <https://fsf.org/>
@@ -14,7 +12,7 @@ This version of the GNU Lesser General Public License incorporates
       the terms and conditions of version 3 of the GNU General Public
       License, supplemented by the additional permissions listed below.
 
-     F U =r'0\60Fr
+     F[;C<r z/
         Additional Definitions.
          As used herein, "this License" refers to version 3 of
               the GNU Lesser General Public License, and the "GNU GPL"
@@ -45,13 +43,13 @@ The "Corresponding Application Code" for a Combined
               for reproducing the Combined Work from the Application,
               but excluding the System Libraries of the Combined Work.
       
-F.E"'^)n2v`
+FC(I
         Exception to Section 3 of the GNU GPL. 
 
         You may convey a covered work under sections 3 and 4 of this
         License without being bound by section 3 of the GNU GPL.
       
-4v
+@U_,y<f
         Conveying Modified Versions. 
 
         If you modify a copy of the Library, and, in your
@@ -59,17 +57,17 @@ F.E"'^)n2v`
         to be supplied by an Application that uses the facility
         (other than as an argument passed when the facility is
         invoked), then you may convey a copy of the modified version:
-         lQ5L_K)Tk'wv
+         aSFC
             under this License, provided that you make a good faith
             effort to ensure that, in the event an Application does not
             supply the function or data, the facility still operates, and
             performs whatever part of its purpose remains meaningful, or
           
-;~9	TZ]?O><#c!	F
+_af6'L^Gh%J
             under the GNU GPL, with none of the additional
             permissions of this License applicable to that copy.
       
-J
+ n=L<w997yot	*-	`g^
         Object Code Incorporating Material from Library Header Files. 
 
         The object code form of an Application may incorporate material from
@@ -78,40 +76,40 @@ J
         material is not limited to numerical parameters, data structure
         layouts and accessors, or small macros, inline functions and templates
         (ten or fewer lines in length), you do both of the following:
-         $@hZ!<4%3
+         8gv"&>=-`|Rf 
             Give prominent notice with each copy of the object
             code that the Library is used in it and that the
             Library and its use are covered by this License.
           
-%jg)GF[J#:Pv-y
+wtxe=QPI<A ${7V
             Accompany the object code with a copy of
             the GNU GPL and this license document.
       
-h
+[fy:&g;2e?k)
         Combined Works. 
 
         You may convey a Combined Work under terms of your choice that, taken
         together, effectively do not restrict modification of the portions of
         the Library contained in the Combined Work and reverse engineering for
         debugging such modifications, if you also do each of the following:
-         TNaW8@I]F#jX
+         GXVe
             Give prominent notice with each copy of the Combined
             Work that the Library is used in it and that the
             Library and its use are covered by this License.
           
-xKL^z!96u
+4Z+}P]K
             Accompany the Combined Work with a copy
             of the GNU GPL and this license document.
           
-#
+5\zW0hmfKRWL/HZO
             For a Combined Work that displays copyright notices during
             execution, include the copyright notice for the Library
             among these notices, as well as a reference directing the
             user to the copies of the GNU GPL and this license document.
           
-!{7c91
+DK%"s&*3O^{M)
             Do one of the following:
-             Pv~{X,2 v[`-X{w6d%/
+             {%<vf/XfdlW"cf
                 Convey the Minimal Corresponding Source under the terms
                 of this License, and the Corresponding Application Code
                 in a form suitable for, and under terms that permit,
@@ -120,7 +118,7 @@ xKL^z!96u
                 modified Combined Work, in the manner specified by section
                 6 of the GNU GPL for conveying Corresponding Source.
               
-KXB{n
+QV3 wUoS8B6I>T3BDu
                 Use a suitable shared library mechanism for linking
                 with the Library. A suitable mechanism is one that
                 (a) uses at run time a copy of the Library already
@@ -128,7 +126,7 @@ KXB{n
                 operate properly with a modified version of the Library
                 that is interface-compatible with the Linked Version.
           
-Q+F50X:taIZ
+\v.wHvG6	=
             Provide Installation Information, but only if you would otherwise
             be required to provide such information under section 6 of the GNU
             GPL, and only to the extent that such information is necessary to
@@ -140,7 +138,7 @@ Q+F50X:taIZ
             provide the Installation Information in the manner specified by
             section 6 of the GNU GPL for conveying Corresponding Source.)
       
-
+47Gs{e?"T
         Combined Libraries. 
 
         You may place library facilities that are a work based on
@@ -148,17 +146,17 @@ Q+F50X:taIZ
         other library facilities that are not Applications and are not
         covered by this License, and convey such a combined library
         under terms of your choice, if you do both of the following:
-         nA-81c}/5fE5q
+         <@,mPCmdefn[p{
             Accompany the combined library with a copy of the same work
             based on the Library, uncombined with any other library
             facilities, conveyed under the terms of this License.
           
-c*z;'|WaNnUzG!aA:@
+Y&2jeCKJS
             Give prominent notice with the combined library that part
             of it is a work based on the Library, and explaining where
             to find the accompanying uncombined form of the same work.
       
-d+5J&?E*6 3
+-q d7$E
         Revised Versions of the GNU Lesser General Public License.
          
 The Free Software Foundation may publish revised and/or new versions
