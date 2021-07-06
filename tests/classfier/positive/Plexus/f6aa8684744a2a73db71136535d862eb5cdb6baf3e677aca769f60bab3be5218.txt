@@ -1,0 +1,57 @@
+  [Sp[D?>r@PfE
+
+       
+Redistribution and use of this software and associated documentation ("Software"), with or without
+         modification, are permitted provided that the following conditions are met:
+
+       
+ 	~7w_F	pZU<{-Gu#Py}
+          Redistributions of source code must retain copyright statements and notices. Redistributions must
+             also contain a copy of this document.
+        
+        
+ z <AL{eN\/rX$W,d6iR)
+          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+             and the following disclaimer in the documentation and/or other materials provided with the
+             distribution.
+        
+        
+ suxZ2!W5)U
+          The name
+             ; must not be used to endorse or promote
+            products derived from this Software without prior written permission of
+             ^*,. For written permission, please contact
+             zr9]~c0Ha3y-qh.
+
+        
+        
+ e.?hx !++I<$L
+          Products derived from this Software may not be called
+             ay874xx5 nor may
+             )RX%zUt ]W&t appear in their names without prior
+            written permission of
+             bJ1_;"LtAJ* [.
+             L%AG^+B. is a registered trademark of
+             7WM .
+
+        
+        
+ evH
+          Due credit should be given to
+             p=K.
+
+        
+      
+       
+THIS SOFTWARE IS PROVIDED BY K(Aa<:0 AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESSED OR
+        IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+        FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
+         7hM<o|dyW OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+        INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+        PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+        HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+        NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+        POSSIBILITY OF SUCH DAMAGE.
+      
+
+    
