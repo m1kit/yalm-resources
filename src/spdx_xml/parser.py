@@ -113,6 +113,7 @@ def parse_xml(text: xml.Element) -> template.Node:
   Parses a dom element in the spdx-license-XML format and returns a Node.
   """
   transformer = _XmlTransformer()
+  text.setAttribute('spacing', 'none')
   tree = transformer.transform_node(text)
   tree = tree.simplify()
   return tree

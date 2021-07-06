@@ -13,7 +13,7 @@ class Normalizer:
       return self.normalize_optional(node)
     if isinstance(node, VarNode):
       return self.normalize_var(node)
-    raise NotImplemented("Unsupported node type")
+    raise NotImplementedError("Unsupported node type")
 
   def normalize_sequential(self, node: SequentialNode) -> Node:
     node.nodes = [self(node) for node in node.nodes]
@@ -129,10 +129,38 @@ class WhiteSpaceNormalizer(Normalizer):
   this function the input file just becomes a single long
   string which is easier to match.
   """
+  _optional_space = OptionaltNode(TextNode('`'))
+
   def normalize_text(self, node: TextNode) -> Node:
     node.text = re.sub(r'\s+', '`', node.text)
     node.text = re.sub(r'\`+', '`', node.text)
     return node
+
+  def normalize_optional(self, node: OptionaltNode) -> Node:
+    node.content = node.content.trim()
+    node.content = self(node.content)
+    return SequentialNode(self._optional_space, node, self._optional_space)
+
+
+class Trimmer(Normalizer):
+  """
+  All leading/trailing spaces are removed.
+  """
+  def __init__(self, char: str = None, l: bool = True, r: bool = True):
+    self.char = char
+    self.l = l
+    self.r = r
+
+  def __call__(self, node: Node) -> Node:
+    return node.trim(char=self.char, l=self.l, r=self.r)
+
+
+class TemplateSimplifier(Normalizer):
+  """
+  Structure of a template is simplified as much as possible.
+  """
+  def __call__(self, node: Node) -> Node:
+    return node.simplify()
 
 
 class TextNormalizer(SequentialNormalizer):
@@ -145,6 +173,7 @@ class TextNormalizer(SequentialNormalizer):
         PunctuationNormalizer(),
         LicenseTitleNormalizer(),
         WhiteSpaceNormalizer(),
+        Trimmer(char='`'),
     )
 
 
@@ -155,4 +184,6 @@ class TemplateNormalizer(SequentialNormalizer):
         EquivalentWordsNormalizer(equivalentwords),
         PunctuationNormalizer(),
         WhiteSpaceNormalizer(),
+        Trimmer(char='`'),
+        TemplateSimplifier(),
     )
