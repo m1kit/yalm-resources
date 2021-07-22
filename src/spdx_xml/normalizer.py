@@ -152,7 +152,8 @@ class WhiteSpaceNormalizer(Normalizer):
 
     @self.normalize_regex.add_rule()
     def rule1(literal: terregex.Literal):
-      literal.string = literal.string.lower()
+      if literal.string.isspace():
+        literal.string = '`'
 
   def normalize_text(self, node: TextNode) -> Node:
     node.text = re.sub(r'\s+', '`', node.text)
