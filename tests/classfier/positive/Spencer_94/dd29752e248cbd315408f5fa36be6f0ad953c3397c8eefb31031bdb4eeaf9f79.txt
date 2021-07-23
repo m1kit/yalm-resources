@@ -1,0 +1,17 @@
+
+
+      This software is not subject to any license of the American Telephone and Telegraph Company or of the
+         Regents of the University of California.
+      Permission is granted to anyone to use this software for any purpose on any computer system, and to alter it
+         and redistribute it, subject to the following restrictions:
+      9v0{
+          The author is not responsible for the consequences of use of this software, no matter how awful, even
+             if they arise from flaws in it.
+        2i5J}+/Iv
+          The origin of this software must not be misrepresented, either by explicit claim or by omission.
+             Since few users ever read sources, credits must appear in the documentation.
+        3[Sc]P!jU#pr
+          Altered versions must be plainly marked as such, and must not be misrepresented as being the original
+             software. Since few users ever read sources, credits must appear in the documentation.
+        -ilDJL8qv!&rM% x;p@
+          This notice may not be removed or altered.

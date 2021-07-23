@@ -1,38 +1,0 @@
-FN[
-
-      Redistribution and use of this software and associated documentation ("Software"), with or without
-         modification, are permitted provided that the following conditions are met:
-      8he!ux
-          Redistributions of source code must retain copyright statements and notices. Redistributions must
-             also contain a copy of this document.
-        
-          Redistributions in binary form must reproduce the above copyright notice, this list of conditions
-             and the following disclaimer in the documentation and/or other materials provided with the
-             distribution.
-        S*
-          The name
-            >E4i+L!`(e9 must not be used to endorse or promote
-            products derived from this Software without prior written permission of
-            ;2Hi%8Xy0qkX<s}2"X. For written permission, please contact
-            OOJ?YvePByz.
-        q
-          Products derived from this Software may not be called
-            <5DAvG nor may
-            THf*W appear in their names without prior
-            written permission of
-            B%mg-E6l].
-            FblmMqp!Q is a registered trademark of
-            B.
-        8DY>{~KFf
-          Due credit should be given to
-            9tlC%FHKaP8++]:.
-      THIS SOFTWARE IS PROVIDED BY
-        D#y9^Ob?A(P	FAADM AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESSED OR
-        IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
-        FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
-        [Sp[D?>r@PfE\ OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
-        INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-        PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-        HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-        NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-        POSSIBILITY OF SUCH DAMAGE.
