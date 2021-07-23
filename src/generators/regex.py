@@ -5,6 +5,7 @@ import json
 import progressbar
 import re
 from spdx_xml import template, normalizer
+from util import escape_license_id
 
 _dir = 'regex'
 
@@ -21,8 +22,9 @@ def generate(dest, meta):
   nf = normalizer.TemplateNormalizer(equivalentwords)
   for license in progressbar.progressbar(licenses):
     license_id = license['id']
-    regex_path = pjoin(dest, _dir, f"{license_id}")
-    with open(pjoin(dest, meta['templates-dir'], f"{license_id}.json")) as f:
+    license_path = escape_license_id(license_id)
+    regex_path = pjoin(dest, _dir, license_path)
+    with open(pjoin(dest, meta['templates-dir'], f"{license_path}.json")) as f:
       root = template.parse_json(json.load(f))
     _generate_regex(regex_path, license_id, root, nf)
 

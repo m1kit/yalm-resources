@@ -5,6 +5,7 @@ import json
 import progressbar
 import re
 from spdx_xml import template, words
+from util import escape_license_id
 
 _dir = 'words'
 
@@ -20,8 +21,9 @@ def generate(dest, meta):
 
   for license in progressbar.progressbar(licenses):
     license_id = license['id']
-    words_path = pjoin(dest, _dir, f"{license_id}.json")
-    with open(pjoin(dest, meta['templates-dir'], f"{license_id}.json")) as f:
+    license_path = escape_license_id(license_id)
+    words_path = pjoin(dest, _dir, f"{license_path}.json")
+    with open(pjoin(dest, meta['templates-dir'], f"{license_path}.json")) as f:
       root = template.parse_json(json.load(f))
     _generate_words(words_path, license_id, root, equivalentwords)
 

@@ -6,6 +6,7 @@ from random import Random
 from spdx_xml import template
 import json
 import progressbar
+from util import escape_license_id
 
 _seed = 'm1k17'
 _rand = Random(_seed)
@@ -21,10 +22,11 @@ def generate(dest, meta):
 
   for license in progressbar.progressbar(licenses):
     license_id = license['id']
-    license_dir = pjoin(dest, _dir, license_id)
+    license_path = escape_license_id(license_id)
+    license_dir = pjoin(dest, _dir, license_path)
     os.makedirs(license_dir, exist_ok=True)
 
-    with open(pjoin(dest, meta['templates-dir'], f"{license_id}.json")) as f:
+    with open(pjoin(dest, meta['templates-dir'], f"{license_path}.json")) as f:
       root = template.parse_json(json.load(f))
     for _ in range(_tests_per_id):
       _generate_test(license_dir, root)

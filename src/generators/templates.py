@@ -5,6 +5,7 @@ import json
 import progressbar
 import xml.dom.minidom as xml
 import spdx_xml.parser
+from util import escape_license_id
 
 _dir = 'template'
 
@@ -18,7 +19,8 @@ def generate(dest, meta):
 
   for license in progressbar.progressbar(licenses):
     license_id = license['id']
-    template_path = pjoin(dest, _dir, f"{license_id}.json")
+    license_path = escape_license_id(license_id)
+    template_path = pjoin(dest, _dir, f"{license_path}.json")
     _generate_template(template_path, license_id)
 
   meta['templates-dir'] = _dir
