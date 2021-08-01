@@ -46,7 +46,7 @@ def _dfs_template(root: template.Node) -> str:
     return ''.join(_dfs_template(node) for node in root.nodes)
   elif isinstance(root, template.TextNode):
     return root.text
-  elif isinstance(root, template.OptionaltNode):
+  elif isinstance(root, template.OptionalNode):
     if _rand.random() < 0.5:
       return ''
     return _dfs_template(root.content)
