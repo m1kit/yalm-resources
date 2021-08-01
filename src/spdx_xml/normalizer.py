@@ -68,7 +68,6 @@ class LowercaseNormalizer(Normalizer):
   def normalize_text(self, node: TextNode, **_) -> Node:
     node.text = node.text.lower()
     return node
-    return node
 
   def normalize_var(self, node: VarNode, **_):
     node.pattern = self.normalize_regex(node.pattern)
@@ -159,6 +158,13 @@ class WhiteSpaceNormalizer(Normalizer):
   """
   _optional_space = OptionaltNode(TextNode('`'))
 
+  def __init__(self):
+    self.normalize_regex = terregex.Transformer()
+
+    @self.normalize_regex.add_rule()
+    def rule1(literal: terregex.Literal):
+      literal.string = literal.string.replace(' ', '`')
+
   def normalize_text(self, node: TextNode, *, pred: Node = None, succ: Node = None, **_) -> Node:
     if isinstance(pred, OptionaltNode):
       node.trim(r=False)
@@ -172,6 +178,10 @@ class WhiteSpaceNormalizer(Normalizer):
     node.content = node.content.trim()
     node.content = self(node.content)
     return SequentialNode(self._optional_space, node, self._optional_space)
+
+  def normalize_var(self, node: VarNode, **_):
+    node.pattern = self.normalize_regex(node.pattern)
+    return node
 
 
 class Trimmer(Normalizer):
