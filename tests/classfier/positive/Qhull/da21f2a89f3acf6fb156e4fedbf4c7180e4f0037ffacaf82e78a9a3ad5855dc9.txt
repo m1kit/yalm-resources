@@ -1,0 +1,21 @@
+< y!GR%J]&6/O
+      email: qhull@qhull.org
+      This software includes Qhull from The Geometry Center. Qhull is copyrighted as noted above. Qhull is free
+         software and may be obtained via http from www.qhull.org. It may be freely copied, modified, and
+         redistributed under the following conditions:
+      u
+          All copyright notices must remain intact in all files.
+        .fGX	fgY
+          A copy of this text file must be distributed along with any copies of Qhull that you
+             redistribute; this includes copies that you have modified, or copies of programs or other
+             software products that include Qhull.
+        2b'3l&V'ks_oec
+          If you modify Qhull, you must include a notice giving the name of the person performing the
+             modification, the date of modification, and the reason for such modification.
+        [YfD
+          When distributing modified versions of Qhull, or other software products that include Qhull, you
+             must provide notice that the original source code may be obtained as noted above.
+        i;C*|H2$"0%z
+          There is no warranty or other guarantee of fitness for Qhull, it is provided solely "as is". Bug
+             reports or fixes may be sent to qhull_bug@qhull.org; the authors may or may not act on them as
+             they desire.

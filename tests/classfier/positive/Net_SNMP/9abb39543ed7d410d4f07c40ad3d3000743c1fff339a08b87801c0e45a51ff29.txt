@@ -1,0 +1,304 @@
+---- Part 1: CMU/UCD copyright notice: (BSD like) -----
+
+      C_7/
+
+      Permission to use, copy, modify and distribute this software and
+         its documentation for any purpose and without fee is hereby
+         granted, provided that the above copyright notice appears in
+         all copies and that both that copyright notice and this
+         permission notice appear in supporting documentation, and that
+         the name of CMU and The Regents of the University of
+         California not be used in advertising or publicity pertaining
+         to distribution of the software without specific written
+         permission.
+      CMU AND THE REGENTS OF THE UNIVERSITY OF CALIFORNIA DISCLAIM ALL
+         WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED
+         WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL
+         CMU OR THE REGENTS OF THE UNIVERSITY OF CALIFORNIA BE LIABLE
+         FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY
+         DAMAGES WHATSOEVER RESULTING FROM THE LOSS OF USE, DATA OR
+         PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+         TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE
+         OR PERFORMANCE OF THIS SOFTWARE.
+      ---- Part 2: Networks Associates Technology, Inc copyright notice
+         (BSD) -----
+      Copyright (c) 2001-2003, Networks Associates Technology, Inc All
+         rights reserved. Redistribution and use in source and binary
+         forms, with or without modification, are permitted provided
+         that the following conditions are met:
+      b .])G	CbPEY&d
+          Redistributions of source code must retain the above
+             copyright notice, this list of conditions and the
+             following disclaimer.
+        5ue%y
+          Redistributions in binary form must reproduce the above
+             copyright notice, this list of conditions and the
+             following disclaimer in the documentation and/or other
+             materials provided with the distribution.
+        Zwr_#QB@qBRn^8%
+          Neither the name of the Networks Associates Technology,
+             Inc nor the names of its contributors may be used to
+             endorse or promote products derived from this software
+             without specific prior written permission.
+          THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+             CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED
+             WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+             WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+             PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
+             THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR
+             ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+             OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+             TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+             OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+             HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+             IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+             NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+             USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+             POSSIBILITY OF SUCH DAMAGE.
+            ---- Part 3: Cambridge Broadband Ltd. copyright notice
+             (BSD) -----
+            Portions of this code are copyright (c) 2001-2003,
+             Cambridge Broadband Ltd. All rights reserved.
+             Redistribution and use in source and binary forms,
+             with or without modification, are permitted provided
+             that the following conditions are met:
+        STCXQSB=CGg <K%+C
+          Redistributions of source code must retain the above
+             copyright notice, this list of conditions and the
+             following disclaimer.
+        m.IOdp!ty)K1t
+          Redistributions in binary form must reproduce the above
+             copyright notice, this list of conditions and the
+             following disclaimer in the documentation and/or other
+             materials provided with the distribution.
+        (va
+          The name of Cambridge Broadband Ltd. may not be used to
+             endorse or promote products derived from this software
+             without specific prior written permission.
+      THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER ``AS IS'' AND
+         ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+         TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+         A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+         COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT,
+         INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+         (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+         GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+         INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+         WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+         NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+         THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+         DAMAGE.
+      ---- Part 4: Sun Microsystems, Inc. copyright notice (BSD) -----
+
+      ~6F"q
+
+      Use is subject to license terms below.
+      This distribution may include materials developed by third parties.
+      Sun, Sun Microsystems, the Sun logo and Solaris are trademarks or
+         registered trademarks of Sun Microsystems, Inc. in the U.S.
+         and other countries.
+      Redistribution and use in source and binary forms, with or
+         without modification, are permitted provided that the
+         following conditions are met:
+      u
+          Redistributions of source code must retain the above
+             copyright notice, this list of conditions and the
+             following disclaimer.
+        )5VJ2CG5A%42
+          Redistributions in binary form must reproduce the above
+             copyright notice, this list of conditions and the
+             following disclaimer in the documentation and/or other
+             materials provided with the distribution.
+        C,
+          Neither the name of the Sun Microsystems, Inc. nor the
+             names of its contributors may be used to endorse or
+             promote products derived from this software without
+             specific prior written permission.
+          THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+             CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED
+             WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+             WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+             PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
+             THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR
+             ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+             OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+             TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+             OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+             HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+             IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+             NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+             USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+             POSSIBILITY OF SUCH DAMAGE.
+            ---- Part 5: Sparta, Inc copyright notice (BSD) -----
+            Copyright (c) 2003-2009, Sparta, Inc All rights reserved.
+             Redistribution and use in source and binary forms,
+             with or without modification, are permitted provided
+             that the following conditions are met:
+        ]Q%Sw[DS7%w5Vu
+          Redistributions of source code must retain the above
+             copyright notice, this list of conditions and the
+             following disclaimer.
+        %x%0<rLIO	,_Zn-
+          Redistributions in binary form must reproduce the above
+             copyright notice, this list of conditions and the
+             following disclaimer in the documentation and/or other
+             materials provided with the distribution.
+        qTk8LzXWk
+          Neither the name of Sparta, Inc nor the names of its
+             contributors may be used to endorse or promote
+             products derived from this software without specific
+             prior written permission.
+          THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+             CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED
+             WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+             WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+             PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
+             THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR
+             ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+             OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+             TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+             OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+             HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+             IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+             NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+             USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+             POSSIBILITY OF SUCH DAMAGE.
+            ---- Part 6: Cisco/BUPTNIC copyright notice (BSD) -----
+            Copyright (c) 2004, Cisco, Inc and Information Network
+             Center of Beijing University of Posts and
+             Telecommunications. All rights reserved.
+             Redistribution and use in source and binary forms,
+             with or without modification, are permitted provided
+             that the following conditions are met:
+        Z@p$&N7s%#S$@g
+          Redistributions of source code must retain the above
+             copyright notice, this list of conditions and the
+             following disclaimer.
+        D<85
+          Redistributions in binary form must reproduce the above
+             copyright notice, this list of conditions and the
+             following disclaimer in the documentation and/or other
+             materials provided with the distribution.
+        `TW|+*
+          Neither the name of Cisco, Inc, Beijing University of
+             Posts and Telecommunications, nor the names of their
+             contributors may be used to endorse or promote
+             products derived from this software without specific
+             prior written permission.
+      THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+         CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
+         INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+         MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+         DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR
+         CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+         SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+         NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+         LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+         HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+         CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+         OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+         EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+      ---- Part 7: Fabasoft R&D Software GmbH & Co KG copyright
+         notice (BSD) -----
+
+      P
+
+      Redistribution and use in source and binary forms, with or
+         without modification, are permitted provided that the
+         following conditions are met:
+      rx^Xa"
+          Redistributions of source code must retain the above
+             copyright notice, this list of conditions and the
+             following disclaimer.
+        #lr
+          Redistributions in binary form must reproduce the above
+             copyright notice, this list of conditions and the
+             following disclaimer in the documentation and/or other
+             materials provided with the distribution.
+        "u`_[n
+          The name of Fabasoft R&D Software GmbH & Co KG or
+             any of its subsidiaries, brand or product names may
+             not be used to endorse or promote products derived
+             from this software without specific prior written
+             permission.
+      THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER ``AS IS'' AND
+         ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+         TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+         A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+         COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT,
+         INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+         (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+         GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+         INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+         WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+         NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+         THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+         DAMAGE.
+      ---- Part 8: Apple Inc. copyright notice (BSD) -----
+
+      ^LN*Ai
+
+      Redistribution and use in source and binary forms, with or
+         without modification, are permitted provided that the
+         following conditions are met:
+      <>#bBIfFGG	 x
+          Redistributions of source code must retain the above
+             copyright notice, this list of conditions and the
+             following disclaimer.
+        I:Ty	vo-/j-
+          Redistributions in binary form must reproduce the above
+             copyright notice, this list of conditions and the
+             following disclaimer in the documentation and/or other
+             materials provided with the distribution.
+        0L */W(|D
+          Neither the name of Apple Inc. ("Apple") nor the names of
+             its contributors may be used to endorse or promote
+             products derived from this software without specific
+             prior written permission.
+          THIS SOFTWARE IS PROVIDED BY APPLE AND ITS CONTRIBUTORS
+             "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+             INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+             OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+             PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL APPLE OR ITS
+             CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+             INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+             DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+             SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+             PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+             ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+             STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+             OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+             SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+             DAMAGE.
+            ---- Part 9: ScienceLogic, LLC copyright notice (BSD) -----
+            Copyright (c) 2009, ScienceLogic, LLC All rights
+             reserved. Redistribution and use in source and binary
+             forms, with or without modification, are permitted
+             provided that the following conditions are met:
+        c&{C@
+          Redistributions of source code must retain the above
+             copyright notice, this list of conditions and the
+             following disclaimer.
+        JOuNtr
+          Redistributions in binary form must reproduce the above
+             copyright notice, this list of conditions and the
+             following disclaimer in the documentation and/or other
+             materials provided with the distribution.
+        H&6}
+          Neither the name of ScienceLogic, LLC nor the names of
+             its contributors may be used to endorse or promote
+             products derived from this software without specific
+             prior written permission.
+      THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+         CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
+         INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+         MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+         DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR
+         CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+         SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+         NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+         LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+         HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+         CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+         OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+         EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

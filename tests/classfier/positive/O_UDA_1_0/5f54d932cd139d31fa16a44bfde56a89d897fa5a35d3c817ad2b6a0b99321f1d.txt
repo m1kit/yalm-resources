@@ -1,0 +1,47 @@
+
+
+    This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA"). Capitalized terms are defined in Section 5. Data Provider and you agree as follows:
+
+    Bs~SQik1`s>=>:z]F Provision of the Data
+
+            55(~B You may use, modify, and distribute the Data made available to you by the Data Provider under this O-UDA if you follow the O-UDA's terms.
+
+                waNFyEIo%d^w Data Provider will not sue you or any Downstream Recipient for any claim arising out of the use, modification, or distribution of the Data provided you meet the terms of the O-UDA.
+
+                 This O-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
+
+        PW_CF\ No Restrictions on Use or Results
+
+            0h4k-h The O-UDA does not impose any restriction with respect to:
+
+                    E!e the use or modification of Data; or
+
+                        Tu0rZKD2d the use, modification, or distribution of Results.
+
+        u Redistribution of Data
+
+            E*`>F`'D You may redistribute the Data under terms of your choice, so long as:
+
+                    sJ,t,Odt2\-D|/'E	 You include with any Data you redistribute all credit or attribution information that you received with the Data, and your terms require any Downstream Recipient to do the same; and
+
+                        F{gxdK!9/+\c2fb6+ Your terms include a warranty disclaimer and limitation of liability for Upstream Data Providers at least as broad as those contained in Section 4.2 and 4.3 of the O-UDA.
+
+        CP No Warranty, Limitation of Liability
+
+            m	`WPZyhYF9e Data Provider does not represent or warrant that it has any rights whatsoever in the Data.
+
+                :O.' THE DATA IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+                 Avf&H{Qe(-r NEITHER DATA PROVIDER NOR ANY UPSTREAM DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+        a[m	.ygO6 Definitions
+
+            cr0IV,Z%zX1|_,8H@2t "Data" means the material you receive under the O-UDA in modified or unmodified form, but not including Results.
+
+                ?10\y75x] "Data Provider" means the source from which you receive the Data and with whom you enter into the O-UDA.
+
+                :H DIv;/t>%8 "Downstream Recipient" means any person or persons who receives the Data directly or indirectly from you in accordance with the O-UDA.
+
+                X+Uj`wC "Result" means anything that you develop or improve from your use of Data that does not include more than a de minimis portion of the Data on which the use is based.  Results may include de minimis portions of the Data necessary to report on or explain use that has been conducted with the Data, such as figures in scientific papers, but do not include more.  Artificial intelligence models trained on Data (and which do not include more than a de minimis portion of Data) are Results.
+
+                !k2{}eB9&^7u|<<KwP'D "Upstream Data Providers" means the source or sources from which the Data Provider directly or indirectly received, under the terms of the O-UDA, material that is included in the Data.
