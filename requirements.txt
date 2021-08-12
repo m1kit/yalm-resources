@@ -8,5 +8,5 @@ six==1.16.0
 terregex==0.0.5
 urllib3==1.26.4
 xeger==0.3.5
-yalm==0.0.1a3
+yalm~=0.0.1a4
 yapf==0.31.0
