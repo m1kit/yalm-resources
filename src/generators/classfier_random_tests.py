@@ -3,7 +3,7 @@ from hashlib import sha256 as hasher
 import os
 from os.path import join as pjoin
 from random import Random
-from spdx_xml import template
+from yalm.template import template
 import json
 import progressbar
 from util import escape_license_id

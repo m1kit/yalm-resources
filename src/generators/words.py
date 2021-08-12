@@ -4,7 +4,8 @@ from os.path import join as pjoin
 import json
 import progressbar
 import re
-from spdx_xml import template, words
+from yalm import words
+from yalm.template import template
 from util import escape_license_id
 
 _dir = 'words'

@@ -4,7 +4,7 @@ from os.path import join as pjoin
 import json
 import progressbar
 import xml.dom.minidom as xml
-import spdx_xml.parser
+from yalm.template import parser
 from util import escape_license_id
 
 _dir = 'template'
@@ -32,7 +32,7 @@ def _generate_template(dest, license_id):
   doc = xml.parseString(res.text)
 
   text = doc.getElementsByTagName('text')[0]
-  template = spdx_xml.parser.parse_xml(text)
+  template = parser.parse_xml(text)
 
   with open(dest, 'w+') as f:
     json.dump(template.to_dict(), f)

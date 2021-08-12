@@ -5,7 +5,8 @@ progressbar2==3.53.1
 python-utils==2.5.6
 requests==2.25.1
 six==1.16.0
+terregex==0.0.5
 urllib3==1.26.4
 xeger==0.3.5
+yalm==0.0.1a3
 yapf==0.31.0
-terregex>=0.0.5

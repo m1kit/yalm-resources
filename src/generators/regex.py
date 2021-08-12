@@ -4,7 +4,7 @@ from os.path import join as pjoin
 import json
 import progressbar
 import re
-from spdx_xml import template, normalizer
+from yalm.template import template, normalizer
 from util import escape_license_id
 
 _dir = 'regex'
